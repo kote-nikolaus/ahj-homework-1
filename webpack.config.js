@@ -1,8 +1,6 @@
-
 const path = require('path');
 const HtmlWebPackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-//const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 
 module.exports = {
   output: {
